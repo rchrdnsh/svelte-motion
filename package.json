@@ -14,7 +14,7 @@
     "framesync": "6.1.2",
     "popmotion": "11.0.5",
     "style-value-types": "5.1.2",
-    "tslib": "^2.2.0"
+    "tslib": "^2.4.1"
   },
   "devDependencies": {
     "@emotion/is-prop-valid": "^1.1.0",
