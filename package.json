@@ -10,7 +10,7 @@
   "author": "Michael Lucht <micha-lmxt@gradientdescent.de> (https://svelte-motion.gradientdescent.de)",
   "license": "MIT",
   "dependencies": {
-    "@types/react": "^17.0.11",
+    "@types/react": "^18.0.26",
     "framesync": "6.1.2",
     "popmotion": "11.0.5",
     "style-value-types": "5.1.2",
